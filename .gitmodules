@@ -1,0 +1,3 @@
+[submodule "sandpond-sand"]
+	path = sandpond-sand
+	url = https://github.com/todepond/sandpond
