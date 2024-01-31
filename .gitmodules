@@ -1,3 +1,6 @@
 [submodule "sandpond-sand"]
 	path = sandpond-sand
 	url = https://github.com/todepond/sandpond
+[submodule "cellpond-sand"]
+	path = cellpond-sand
+	url = https://github.com/todepond/cellpond
